@@ -1,0 +1,210 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav{
+    padding-left: 5%;
+    
+}
+.nav,li,ul{
+    display: inline block;
+    margin: 0px 10px;
+    list-style: none;
+    flex: 1px;
+    padding-left: 1px;
+    display: flex;
+    gap: 100px;
+    font-weight: 40px;
+    font-size: 40px;
+    padding-left: 20%;
+}
+.back{
+    font-size:70px;
+    color: #fff;
+    margin-top: 10%;
+    padding-left: 15%;
+   }
+.button{
+    color: #fff;
+    background-color: fuchsia;
+    padding: 20px 30px;
+    margin: 30px  40px;
+    font-size: 30px;
+    font-weight:20px;
+    border-style: none;
+
+}
+.main{
+    display: flex;
+    background-color: rgba(180, 114, 241, 0.842);
+    gap: 7%;
+}
+.pic img{
+    height: 700px;
+    width: 1200px;
+}
+.wek{
+    padding-left: 40%;
+    padding-top: 3%;
+    font-size: 30px;
+}
+.cloth{
+display: flex;
+gap: 40px;
+padding-left: 40%;
+margin-top: 2%;
+font-size: 40px;
+font-weight:20px;
+}
+.clothes{
+ display: flex; 
+ gap: 2%;
+ padding-top: 3%;
+ padding-left:15%;
+ }
+.clothes img{
+height:500px;
+width: 400px;
+}
+.button1{
+    color: #fff;
+    background-color: fuchsia;
+    padding: 20px 30px;
+    margin: 30px  40px;
+    font-size: 30px;
+    font-weight:20px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+/* .image{
+display: inline-block;
+display: flex; */
+/* }
+.image img{
+height:400px;
+width: 600px;
+} */
+/* .mage2{
+    padding-top: 19%;
+    padding-right: 50%;
+} */
+/* .mage1 img{
+  padding-left: 60%; 
+  height: 100%; 
+  padding-top:5%;
+    
+} */
+/* .mage{
+    padding-left: 20%;
+    padding-top: 3%;
+    
+} */
+.mage1{
+    background-image: url(athletic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    height: 100rem;
+    width: 90%;      
+}
+.mage{
+    background-image: url(formal.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    height: 50rem;
+    width: 80%;    
+
+}
+.mage2{
+    background-image: url(casual.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    height: 50rem;
+    width: 80%;    
+
+}
+.images{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+
+.lable{
+    padding-left: 43%;
+    padding-top: 1%;
+    font-size: 30px;
+}
+.labe{
+    padding-left: 37%;
+    padding-top: 1%;
+    font-size: 50px;
+}
+.headg{
+    padding-left: 30%;
+    font-size: 50px;
+    padding-top: 1%;
+}
+.hea{
+padding-left: 31%;
+font-size: 50px;
+}
+.he{
+padding-left: 40%;
+font-size: 50px;
+}
+.footer{
+    display: flex;
+    gap: 5%;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.foo{
+    font-size: 40px;
+}
+.icon{
+display: flex;
+gap: 60%;
+}
+.icons{
+display: flex;
+gap: 10%;
+font-size: 40px;
+padding-left: 10%;
+padding-top: 2%;
+}
+.comp{
+display: flex;
+font-size: 40px;
+padding-top: 2%;
+gap: 10%;
+
+}
+.mai{
+    background-color: black;
+    height: 700px;
+
+    
+}
+.iconss{
+    display: flex;
+    font-size: 100px;
+    color: #fff;
+    gap: 15%;
+    padding-left: 20%;
+    padding-top: 3%;
+}
+.black{
+    color: #fff;
+    font-weight: bold;
+    font-size: 100px;
+    padding-left: 20%;
+    padding-top: 8%;
+}
+.oper{
+    font-size: 50px;
+    color: #fff;
+    padding-left: 20%;
+    padding-top: 2%;
+}
